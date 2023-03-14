@@ -1,0 +1,17 @@
+.box1{ background-color: aliceblue;
+padding: 25px; 
+text-align: center;
+width: 400px;
+margin: auto;
+margin-top: 50px;
+box-shadow: 0px 2px 5px 5px red;
+border-radius: 5px;
+}
+button{ background-color: blue;
+border-radius: 10px;
+width: 130px;
+color: aliceblue;
+border-style: none;
+}
+i{ position: relative;
+left: 180px;}
